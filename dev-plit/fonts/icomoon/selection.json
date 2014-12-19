@@ -1,0 +1,207 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M384 823.296h101.376v-646.144h-217.088v125.952h-69.632v-192.512h651.264v192.512h-70.656v-125.952h-216.064v646.144h101.376v64.512h-280.576v-64.512z"
+				],
+				"attrs": [
+					{
+						"visibility": false
+					}
+				],
+				"grid": 0,
+				"tags": [
+					"icon_typography"
+				]
+			},
+			"attrs": [
+				{
+					"visibility": false
+				}
+			],
+			"properties": {
+				"order": 2,
+				"id": 3,
+				"prevSize": 100,
+				"code": 58880,
+				"name": "icon_typography"
+			},
+			"setIdx": 0,
+			"iconIdx": 0
+		},
+		{
+			"icon": {
+				"paths": [
+					"M516.096 34.816c-265.216 0-480.256 215.040-480.256 480.256s215.040 480.256 480.256 480.256c265.216 0 480.256-215.040 480.256-480.256 0-264.192-215.040-480.256-480.256-480.256zM943.104 372.736l-468.992-128 160.768-162.816c145.408 39.936 260.096 149.504 308.224 290.816zM546.816 785.408l-208.896-60.416-69.632-274.432 180.224-181.248 259.072 70.656 60.416 217.088-221.184 228.352zM600.064 73.728l-340.992 342.016-56.32-222.208c80.896-78.848 191.488-128 314.368-128 27.648 0 56.32 3.072 82.944 8.192zM177.152 221.184l125.952 494.592-215.040-61.44c-14.336-43.008-21.504-90.112-21.504-138.24-0-113.664 41.984-216.064 110.592-294.912zM101.376 689.152l420.864 120.832-133.12 137.216c-130.048-38.912-235.52-134.144-287.744-258.048zM516.096 965.632c-31.744 0-62.464-3.072-92.16-9.216l354.304-363.52 64.512 231.424c-81.92 87.040-197.632 141.312-326.656 141.312zM867.328 796.672l-124.928-446.464 209.92 57.344c8.192 34.816 13.312 70.656 13.312 108.544 0 105.472-36.864 202.752-98.304 280.576z"
+				],
+				"attrs": [
+					{
+						"visibility": false
+					}
+				],
+				"grid": 0,
+				"tags": [
+					"icon_photo"
+				]
+			},
+			"attrs": [
+				{
+					"visibility": false
+				}
+			],
+			"properties": {
+				"order": 3,
+				"id": 2,
+				"prevSize": 100,
+				"code": 58881,
+				"name": "icon_photo"
+			},
+			"setIdx": 0,
+			"iconIdx": 1
+		},
+		{
+			"icon": {
+				"paths": [
+					"M18.204 0h1004.658v1022.862h-1022.862v-1022.862h18.204zM155.876 128.569l356.124 356.124 356.124-356.124 26.169 26.169-356.124 356.124 356.124 356.124-26.169 26.169-356.124-356.124-356.124 356.124-26.169-26.169 356.124-356.124-356.124-356.124 26.169-26.169zM986.453 37.547h-948.907v948.907h948.907v-948.907z"
+				],
+				"attrs": [
+					{
+						"visibility": false
+					}
+				],
+				"grid": 0,
+				"tags": [
+					"icon_logos"
+				]
+			},
+			"attrs": [
+				{
+					"visibility": false
+				}
+			],
+			"properties": {
+				"order": 4,
+				"id": 1,
+				"prevSize": 100,
+				"code": 58882,
+				"name": "icon_logos"
+			},
+			"setIdx": 0,
+			"iconIdx": 2
+		},
+		{
+			"icon": {
+				"paths": [
+					"M528.384 528.384h-287.744v-287.744h287.744v287.744zM272.384 495.616h224.256v-224.256h-224.256v224.256z",
+					"M640 239.616h128v31.744h-128v-31.744z",
+					"M640 367.616h128v31.744h-128v-31.744z",
+					"M640 495.616h128v31.744h-128v-31.744z",
+					"M256 623.616h512v31.744h-512v-31.744z",
+					"M256 751.616h512v31.744h-512v-31.744z",
+					"M864.256 912.384h-704.512c-26.624 0-48.128-21.504-48.128-48.128v-704.512c0-26.624 21.504-48.128 48.128-48.128h704.512c26.624 0 48.128 21.504 48.128 48.128v704.512c-0 26.624-21.504 48.128-48.128 48.128zM159.744 144.384c-9.216 0-16.384 7.168-16.384 16.384v704.512c0 9.216 7.168 16.384 16.384 16.384h704.512c9.216 0 16.384-7.168 16.384-16.384v-704.512c0-9.216-7.168-16.384-16.384-16.384h-704.512z"
+				],
+				"attrs": [
+					{
+						"visibility": false
+					},
+					{
+						"visibility": false
+					},
+					{
+						"visibility": false
+					},
+					{
+						"visibility": false
+					},
+					{
+						"visibility": false
+					},
+					{
+						"visibility": false
+					},
+					{
+						"visibility": false
+					}
+				],
+				"grid": 0,
+				"tags": [
+					"icon_templates"
+				]
+			},
+			"attrs": [
+				{
+					"visibility": false
+				},
+				{
+					"visibility": false
+				},
+				{
+					"visibility": false
+				},
+				{
+					"visibility": false
+				},
+				{
+					"visibility": false
+				},
+				{
+					"visibility": false
+				},
+				{
+					"visibility": false
+				}
+			],
+			"properties": {
+				"order": 5,
+				"id": 0,
+				"prevSize": 100,
+				"code": 58883,
+				"name": "icon_templates"
+			},
+			"setIdx": 0,
+			"iconIdx": 3
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"showGlyphs": true,
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"resetPoint": 58880,
+			"showQuickUse": true,
+			"quickUsageToken": false,
+			"showMetrics": true,
+			"showMetadata": false
+		},
+		"imagePref": {
+			"color": 0,
+			"height": 32,
+			"columns": 16,
+			"margin": 16,
+			"png": false,
+			"sprites": true
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16,
+		"showLiga": false,
+		"showGrid": true,
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true
+	}
+}
